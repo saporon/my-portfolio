@@ -1,4 +1,4 @@
-var pics_src = new Array("つば九郎.jpg", "atcoder.jpg", "jevil.webp");
+var pics_src = new Array("./つば九郎.jpg", "./atcoder.jpg", "./jevil.webp");
 var num = -1;
 
 slideshow_timer();

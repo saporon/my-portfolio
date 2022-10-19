@@ -7,7 +7,7 @@ a {
 }
 
 #header {
-  background-image: url("/スライム.webp");
+  background-image: url("./スライム.webp");
   background-size: cover;
   height: 90px;
   opacity: 1;
@@ -36,7 +36,7 @@ a {
 
 #contents {
   height: 1700px;
-  background-image: url("雪.jpg");
+  background-image: url("./雪.jpg");
   background-size: cover;
   background-color: rgba(255, 255, 255, 0.5);
   background-blend-mode: lighten;

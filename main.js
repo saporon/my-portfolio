@@ -35,7 +35,7 @@ unititle.onclick = function () {
   }, 1000);
 };
 
-var pics_src = new Array("環境科学院.jpg", "北大.jpg", "冬北.webp");
+var pics_src = new Array("./環境科学院.jpg", "./北大.jpg", "./冬北.webp");
 var num = -1;
 
 slideshow_timer();
